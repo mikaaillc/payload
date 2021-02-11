@@ -19,10 +19,7 @@ from PyQt5.QtWidgets import QMessageBox, QLabel, QFileDialog, QWidget
 from PyQt5.uic import loadUi
 import random
 from PyQt5 import QtGui
-import pyqtgraph
 import pyqtgraph.exporters
-import numpy
-import socket
 import serial
 
 
